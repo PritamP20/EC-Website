@@ -116,7 +116,7 @@
 #client-section::before{
     content: " ";
     position: absolute;
-    background: url('../Projects/bgi2.jpg') no-repeat center/cover;
+    background: url('../Projects/assets/bgi2.jpg') no-repeat center/cover;
     width: 100%;
     height: 100%;
     z-index: -1;
